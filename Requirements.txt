@@ -1,7 +1,0 @@
-pyTelegramBotAPI
-numpy
-pandas
-scikit-learn
-scipy
-matplotlib
-lifelines
